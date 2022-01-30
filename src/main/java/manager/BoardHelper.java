@@ -1,5 +1,6 @@
 package manager;
 
+import models.Board;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Rectangle;
 import org.openqa.selenium.WebDriver;
@@ -15,13 +16,19 @@ public class BoardHelper extends HelperBase{
 
     public void initBoardCreationFromHeader(){
         click(By.cssSelector("[data-test-id='header-create-menu-button']"));
+
         click(By.cssSelector("[aria-label='BoardIcon']"));
 
     }
-    public void fillBoardCreationForm(){
-        int i=(int)System.currentTimeMillis()/1000%3600;
-        type(By.cssSelector("[data-test-id='create-board-title-input']"), "testQa3"+i);
+    public void fillBoardCreationForm(String boardName){
+
+        type(By.cssSelector("[data-test-id='create-board-title-input']"), boardName);
     }
+    public void fillBoardCreationForm(Board board) {
+
+        type(By.cssSelector("[data-test-id='create-board-title-input']"), board.getTitle());
+    }
+
     public void scrollDownTheForm(){
         Actions action = new Actions(wd);
         WebElement container = wd.findElement(By.cssSelector("[data-test-id='header-create-menu-popover']"));
@@ -72,4 +79,6 @@ public class BoardHelper extends HelperBase{
         Thread.sleep(5000);
         click(By.cssSelector("[data-test-id='close-board-delete-board-confirm-button']"));
     }
+
+
 }
