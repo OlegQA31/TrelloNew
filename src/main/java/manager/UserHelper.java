@@ -6,6 +6,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class UserHelper extends HelperBase{
 
     public UserHelper(WebDriver wd) {
@@ -57,5 +60,25 @@ public class UserHelper extends HelperBase{
         type(By.cssSelector("#password"),password);
         click(By.cssSelector("#login-submit"));
         Thread.sleep(10000);
+    }
+
+    public void clickOnAvatar() {
+        click(By.cssSelector("[data-test-id='header-member-menu-button'"));
+    }
+
+    public void openUserProfile() {
+        click(By.cssSelector("[data-test-id='header-member-menu-profile']"));
+    }
+
+    public void goToAtlassianAccount() {
+        click(By.cssSelector("[href$='manage-profile']"));
+        ArrayList<String> tabs=new ArrayList<>(wd.getWindowHandles());
+        wd.switchTo().window((tabs.get(1)));
+    }
+
+    public void returnToTrelloFromAtlassian() {
+        List <String> tabs=new ArrayList<>(wd.getWindowHandles());
+        wd.close();
+        wd.switchTo().window(tabs.get(0));
     }
 }

@@ -22,6 +22,7 @@ public class Login extends TestBase {
                 .email("ol-dyom@yandex.ru")
                 .password("Frencis8534@")
                 .build();
+        logger.info("Test login Positive 1"+ user.getEmail()+" "+user.getPassword());
         app.getUser().initLogin();
         //app.getUser().fillLoginForm("ol-dyom@yandex.ru","Frencis8534@");
         app.getUser().fillLoginForm(user);
