@@ -1,0 +1,7 @@
+20:45:32.025 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97)
+20:45:32.035 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe
+20:45:33.275 INFO  manager.ApplicationManager - Tests start
+20:45:52.295 INFO  tests_trello.TestBase - Start test--->loginTest1
+20:45:53.621 INFO  tests_trello.TestBase - Test login Positive 1ol-dyom@yandex.ru Frencis8534@
+20:46:07.544 INFO  tests_trello.TestBase - ****************************************************************
+20:46:07.546 INFO  manager.ApplicationManager - Tests are finished
