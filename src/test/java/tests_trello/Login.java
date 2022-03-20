@@ -7,14 +7,14 @@ import org.testng.annotations.Test;
 
 public class Login extends TestBase {
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void preConditions(){
         if (app.getUser().isLogged()) {
             app.getUser().logout();
         }
     }
 
-    @Test
+    @Test(groups ={"logs"})
     public void loginTest1() throws InterruptedException {
         //User user=new User().withEmail("ol-dyom@yandex.ru").withPassword("Frencis8534@"); //class model
 

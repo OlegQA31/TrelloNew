@@ -1,0 +1,5 @@
+20:36:09.233 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+20:36:09.247 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+20:36:10.475 INFO  manager.ApplicationManager - All tests start in 'Chrome' browser
+20:36:10.476 INFO  manager.ApplicationManager - Tests start
+20:36:30.688 INFO  manager.ApplicationManager - Tests are finished

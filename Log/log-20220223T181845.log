@@ -1,0 +1,42 @@
+18:18:46.777 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:18:46.797 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:18:48.096 INFO  manager.ApplicationManager - All tests start in 'Chrome' browser
+18:18:48.096 INFO  manager.ApplicationManager - Tests start
+18:19:07.375 INFO  tests_trello.TestBase - Start test--->loginTest1
+18:19:07.378 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:19:07.392 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:19:07.393 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:19:07.402 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:19:07.446 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-logout'] in search
+18:19:07.459 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-logout'] was found
+18:19:08.154 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-testid='logout-button'] in search
+18:19:08.162 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-testid='logout-button'] was found
+18:19:08.816 INFO  tests_trello.TestBase - Test login Positive 1ol-dyom@yandex.ru Frencis8534@
+18:19:08.816 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href='/login'] in search
+18:19:13.264 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href='/login'] was found
+18:19:13.294 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:19:13.907 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:19:13.930 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:19:13.935 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:19:13.951 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:19:13.958 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:19:18.980 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login in search
+18:19:18.988 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login was found
+18:19:19.657 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:19:19.667 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:19:19.847 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:19:19.852 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:19:19.865 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:19:19.871 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:19:19.904 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login-submit in search
+18:19:19.912 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login-submit was found
+18:19:19.939 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i in search
+18:19:23.432 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+18:19:23.452 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i in search
+18:19:23.457 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+18:19:23.469 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i in search
+18:19:23.474 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+18:19:23.482 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i in search
+18:19:23.486 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+18:19:23.497 INFO  tests_trello.TestBase - ****************************************************************
+18:19:23.499 INFO  manager.ApplicationManager - Tests are finished

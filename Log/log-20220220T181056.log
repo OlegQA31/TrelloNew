@@ -1,0 +1,34 @@
+18:10:57.141 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:10:57.154 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:10:58.366 INFO  manager.ApplicationManager - Tests start
+18:11:17.512 INFO  tests_trello.TestBase - Start test--->cardCreation
+18:11:17.516 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:11:17.527 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:11:17.633 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+18:11:18.031 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+18:11:18.102 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:11:18.113 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:11:18.144 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:11:18.149 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:11:18.165 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:11:18.171 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:11:18.193 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+18:11:18.200 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+18:11:18.237 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+18:11:18.244 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+18:11:18.265 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:11:18.279 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:11:18.299 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:11:18.305 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:11:18.318 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:11:18.323 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:11:18.347 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+18:11:18.356 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+18:11:18.379 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+18:11:18.389 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+18:11:18.414 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+18:11:18.424 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] was found
+18:11:18.445 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card in search
+18:11:18.456 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card was found
+18:11:18.494 INFO  tests_trello.TestBase - ****************************************************************
+18:11:18.496 INFO  manager.ApplicationManager - Tests are finished

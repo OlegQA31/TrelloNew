@@ -1,0 +1,107 @@
+19:09:51.978 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+19:09:51.991 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+19:09:53.324 INFO  manager.ApplicationManager - Tests start
+19:10:12.547 INFO  tests_trello.TestBase - Start test--->boardCreationTest2
+19:10:12.550 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item
+19:10:12.563 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:10:12.563 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li
+19:10:20.573 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+19:10:20.573 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button']
+19:10:20.580 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] was found
+19:10:20.624 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon']
+19:10:20.645 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] was found
+19:10:20.708 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:20.717 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:20.739 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:20.745 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:20.759 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:20.765 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:24.824 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover']
+19:10:24.831 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] was found
+19:10:29.048 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button']
+19:10:29.057 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+19:10:29.081 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button']
+19:10:29.086 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+19:10:29.123 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input
+19:10:30.014 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:10:30.077 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input
+19:10:30.105 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:10:30.115 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i
+19:10:30.122 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+19:10:30.197 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item
+19:10:30.522 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:10:30.523 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li
+19:10:30.531 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+19:10:30.534 INFO  tests_trello.TestBase - ****************************************************************
+19:10:30.535 INFO  tests_trello.TestBase - Start test--->boardCreationTest2
+19:10:30.535 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item
+19:10:30.541 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:10:30.541 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li
+19:10:30.547 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+19:10:30.547 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button']
+19:10:30.554 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] was found
+19:10:30.609 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon']
+19:10:30.624 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] was found
+19:10:30.664 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:30.673 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:30.715 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:30.726 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:30.740 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:30.744 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:34.796 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover']
+19:10:34.806 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] was found
+19:10:39.024 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button']
+19:10:47.051 INFO  manager.MyListener - We have a throwable--> no such element: Unable to locate element: {"method":"css selector","selector":"[data-test-id='create-board-submit-button']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9ad8580df1a097bfdd3228dcb2fed57
+*** Element info: {Using=css selector, value=[data-test-id='create-board-submit-button']}
+19:10:47.051 INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test-id='create-board-submit-button']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9ad8580df1a097bfdd3228dcb2fed57
+*** Element info: {Using=css selector, value=[data-test-id='create-board-submit-button']}
+19:10:47.053 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen647.png
+19:10:47.249 INFO  tests_trello.TestBase - ****************************************************************
+19:10:47.249 INFO  tests_trello.TestBase - Start test--->boardCreationTest2
+19:10:47.249 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item
+19:10:47.257 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:10:47.257 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li
+19:10:47.266 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+19:10:47.266 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button']
+19:10:47.272 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] was found
+19:10:47.304 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon']
+19:10:47.323 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] was found
+19:10:47.366 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:47.372 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:47.395 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:47.399 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:47.413 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+19:10:47.419 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+19:10:51.469 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover']
+19:10:51.477 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] was found
+19:10:51.485 INFO  manager.MyListener - We have a throwable--> move target out of bounds
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9ad8580df1a097bfdd3228dcb2fed57
+19:10:51.485 INFO  manager.MyListener - org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: move target out of bounds
+  (Session info: chrome=98.0.4758.102)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61354}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9ad8580df1a097bfdd3228dcb2fed57
+19:10:51.486 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen651.png
+19:10:51.625 INFO  tests_trello.TestBase - ****************************************************************
+19:10:51.628 INFO  manager.ApplicationManager - Tests are finished

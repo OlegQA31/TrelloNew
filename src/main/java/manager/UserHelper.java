@@ -16,8 +16,8 @@ public class UserHelper extends HelperBase{
     }
     public boolean isLoggedSuccess(){
         WebDriverWait wait= new WebDriverWait(wd,10);
-        wait.until(ExpectedConditions.visibilityOf(wd.findElement(By.cssSelector("._9Bfh6AVH84yAZe"))));
-        return wd.findElement(By.cssSelector("._9Bfh6AVH84yAZe")).isDisplayed();
+        wait.until(ExpectedConditions.visibilityOf(wd.findElement(By.cssSelector("._2ft40Nx3NZII2i"))));
+        return wd.findElement(By.cssSelector("._2ft40Nx3NZII2i")).isDisplayed();
     }
 
     public void submitLogin() {

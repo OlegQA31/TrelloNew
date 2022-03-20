@@ -1,0 +1,50 @@
+19:39:56.581 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+19:39:56.594 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+19:39:57.796 INFO  manager.ApplicationManager - Tests start
+19:40:17.253 INFO  tests_trello.TestBase - Start test--->cardCreation
+19:40:17.257 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+19:40:17.267 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:40:17.358 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+19:40:17.745 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+19:40:17.819 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:40:17.834 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:40:17.862 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:40:17.867 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:40:17.883 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:40:17.888 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:40:17.912 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+19:40:17.920 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+19:40:17.955 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+19:40:17.963 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+19:40:17.985 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:40:18.044 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:40:18.064 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:40:18.070 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:40:18.083 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:40:18.088 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:40:18.111 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+19:40:18.119 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+19:40:18.141 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+19:40:18.151 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+19:40:18.184 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+19:40:26.227 INFO  manager.MyListener - We have a throwable--> no such element: Unable to locate element: {"method":"css selector","selector":"[data-color='green']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62680}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be0ce60167bf6f2e6c59ab259df59fe5
+*** Element info: {Using=css selector, value=[data-color='green']}
+19:40:26.228 INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-color='green']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62680}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be0ce60167bf6f2e6c59ab259df59fe5
+*** Element info: {Using=css selector, value=[data-color='green']}
+19:40:26.230 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen2426.png
+19:40:27.093 INFO  tests_trello.TestBase - ****************************************************************
+19:40:27.094 INFO  manager.ApplicationManager - Tests are finished

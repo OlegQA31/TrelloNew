@@ -19,7 +19,7 @@ public class MyListener extends AbstractWebDriverEventListener {
     @Override
     public void beforeFindBy(By by, WebElement element, WebDriver driver) {
         super.beforeFindBy(by, element, driver);
-        logger.info("The element with locator---> "+by);
+        logger.info("The element with locator---> "+by+" in search");
     }
 
     @Override

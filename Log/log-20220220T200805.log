@@ -1,0 +1,37 @@
+20:08:05.626 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+20:08:05.638 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+20:08:06.858 INFO  manager.ApplicationManager - All tests start in 'Chrome' browser
+20:08:06.863 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+20:08:06.866 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+20:08:07.862 INFO  manager.ApplicationManager - Tests start
+20:08:28.385 INFO  tests_trello.TestBase - Start test--->cardCreation
+20:08:28.388 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+20:08:28.399 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+20:08:28.504 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+20:08:28.965 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+20:08:29.048 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:08:29.076 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:08:29.114 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:08:29.120 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:08:29.135 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:08:29.139 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:08:29.163 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+20:08:29.171 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+20:08:29.205 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+20:08:29.213 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+20:08:29.240 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:08:29.248 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:08:29.271 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:08:29.277 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:08:29.289 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:08:29.293 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:08:29.315 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+20:08:29.324 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+20:08:29.347 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+20:08:29.358 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+20:08:29.383 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+20:08:29.392 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] was found
+20:08:29.414 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card in search
+20:08:29.425 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card was found
+20:08:29.480 INFO  tests_trello.TestBase - ****************************************************************
+20:08:29.482 INFO  manager.ApplicationManager - Tests are finished

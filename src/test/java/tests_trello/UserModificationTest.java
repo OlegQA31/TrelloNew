@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class UserModificationTest extends TestBase{
-    @Test
+    @Test(enabled = false)
     public void testNewTab() throws InterruptedException {
         app.getUser().openTabAndSwitch();
     }

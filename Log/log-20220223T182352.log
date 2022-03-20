@@ -1,0 +1,29 @@
+18:23:52.378 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:23:52.391 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:23:53.607 INFO  manager.ApplicationManager - All tests start in 'Chrome' browser
+18:23:53.607 INFO  manager.ApplicationManager - Tests start
+18:24:12.737 INFO  tests_trello.TestBase - Start test--->testBoardDeletion
+18:24:12.740 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:24:12.753 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:24:12.754 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:24:20.811 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:24:20.811 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:24:20.818 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:24:20.914 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-show-sidebar in search
+18:24:21.353 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-show-sidebar was found
+18:24:21.439 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-open-more in search
+18:24:21.461 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-open-more was found
+18:24:21.524 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-close-board in search
+18:24:21.533 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-close-board was found
+18:24:21.662 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-confirm in search
+18:24:21.672 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-confirm was found
+18:24:21.696 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-button'] in search
+18:24:22.166 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-button'] was found
+18:24:27.213 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-confirm-button'] in search
+18:24:27.223 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-confirm-button'] was found
+18:24:27.250 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:24:28.145 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:24:28.145 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:24:36.152 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:24:36.153 INFO  tests_trello.TestBase - ****************************************************************
+18:24:36.155 INFO  manager.ApplicationManager - Tests are finished

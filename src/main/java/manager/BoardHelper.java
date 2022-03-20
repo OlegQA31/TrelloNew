@@ -48,7 +48,8 @@ public class BoardHelper extends HelperBase{
         return wd.findElement(By.cssSelector(".list-name-input")).isDisplayed();
     }
     public void returnToHomePage(){
-        click(By.cssSelector("._9Bfh6AVH84yAZe"));
+        click(By.cssSelector("._2ft40Nx3NZII2i"));
+        //._9Bfh6AVH84yAZe
     }
     public int getBoardCount(){
         return wd.findElements(By.cssSelector(".boards-page-board-section-list-item")).size()-recentlyViewedBoards();

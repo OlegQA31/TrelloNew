@@ -1,0 +1,71 @@
+19:34:40.146 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+19:34:40.159 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+19:34:41.374 INFO  manager.ApplicationManager - Tests start
+19:35:03.158 INFO  tests_trello.TestBase - Start test--->cardCreationDPCSV
+19:35:03.170 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+19:35:03.181 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+19:35:03.273 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+19:35:03.668 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+19:35:03.740 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:35:03.753 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:35:03.786 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:35:03.791 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:35:03.806 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+19:35:03.813 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+19:35:03.837 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+19:35:03.844 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+19:35:03.878 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+19:35:03.886 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+19:35:03.906 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:35:03.967 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:35:03.987 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:35:03.992 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:35:04.005 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+19:35:04.009 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+19:35:04.029 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+19:35:04.036 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+19:35:04.057 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+19:35:04.067 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+19:35:04.092 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+19:35:04.101 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] was found
+19:35:04.123 INFO  manager.MyListener - We have a throwable--> stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab67f1c877e84143b9f792518ba71a1b
+19:35:04.124 INFO  manager.MyListener - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab67f1c877e84143b9f792518ba71a1b
+19:35:04.126 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen2104.png
+19:35:04.281 INFO  tests_trello.TestBase - ****************************************************************
+19:35:04.281 INFO  tests_trello.TestBase - Start test--->cardCreationDPCSV
+19:35:04.281 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+19:35:12.296 INFO  manager.MyListener - We have a throwable--> no such element: Unable to locate element: {"method":"css selector","selector":".boards-page-board-section-list-item"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab67f1c877e84143b9f792518ba71a1b
+*** Element info: {Using=css selector, value=.boards-page-board-section-list-item}
+19:35:12.296 INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".boards-page-board-section-list-item"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ab67f1c877e84143b9f792518ba71a1b
+*** Element info: {Using=css selector, value=.boards-page-board-section-list-item}
+19:35:12.297 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen2112.png
+19:35:13.315 INFO  tests_trello.TestBase - ****************************************************************
+19:35:13.317 INFO  manager.ApplicationManager - Tests are finished

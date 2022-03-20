@@ -1,0 +1,22 @@
+18:12:08.099 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:12:08.112 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:12:09.322 INFO  manager.ApplicationManager - Tests start
+18:12:31.075 INFO  tests_trello.TestBase - Start test--->testChangeAvatar
+18:12:31.078 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:12:31.090 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:12:31.139 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-profile'] in search
+18:12:31.154 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-profile'] was found
+18:12:31.199 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href$='manage-profile'] in search
+18:12:31.671 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href$='manage-profile'] was found
+18:12:38.733 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-selector='profile-hover-info'] in search
+18:12:38.742 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-selector='profile-hover-info'] was found
+18:12:38.743 INFO  manager.MyListener - The element with locator---> By.cssSelector: .css-1ujqpe8 in search
+18:12:38.750 INFO  manager.MyListener - The element with locator---> By.cssSelector: .css-1ujqpe8 was found
+18:12:39.001 INFO  manager.MyListener - The element with locator---> By.xpath: //*[@role='menuitem'] [1] in search
+18:12:39.012 INFO  manager.MyListener - The element with locator---> By.xpath: //*[@role='menuitem'] [1] was found
+18:12:39.076 INFO  manager.MyListener - The element with locator---> By.cssSelector: [id='image-input'] in search
+18:12:39.084 INFO  manager.MyListener - The element with locator---> By.cssSelector: [id='image-input'] was found
+18:12:42.104 INFO  manager.MyListener - The element with locator---> By.xpath: //div[@class='sc-hgRTRy eovPat']//button[1] in search
+18:12:42.113 INFO  manager.MyListener - The element with locator---> By.xpath: //div[@class='sc-hgRTRy eovPat']//button[1] was found
+18:12:47.231 INFO  tests_trello.TestBase - ****************************************************************
+18:12:47.233 INFO  manager.ApplicationManager - Tests are finished

@@ -1,0 +1,159 @@
+18:53:29.850 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:53:29.866 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:53:31.141 INFO  manager.ApplicationManager - Tests start
+18:53:50.614 INFO  tests_trello.TestBase - Start test--->boardCreationTest
+18:53:50.614 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:53:50.677 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:53:50.677 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:53:58.727 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:53:58.727 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] in search
+18:53:58.735 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] was found
+18:53:58.779 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] in search
+18:53:58.811 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] was found
+18:53:58.858 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] in search
+18:53:58.866 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:53:58.889 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] in search
+18:53:58.893 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:53:58.906 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] in search
+18:53:58.911 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:53:58.958 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] in search
+18:53:58.965 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] was found
+18:53:59.200 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] in search
+18:53:59.207 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+18:53:59.747 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] in search
+18:53:59.752 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+18:53:59.782 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:54:00.670 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:54:00.712 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:54:00.752 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:54:00.763 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i in search
+18:54:00.770 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._2ft40Nx3NZII2i was found
+18:54:00.859 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:54:01.191 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:54:01.191 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:54:01.199 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:54:01.202 INFO  tests_trello.TestBase - ****************************************************************
+18:54:01.204 INFO  tests_trello.TestBase - Start test--->testBoardDeletion
+18:54:01.204 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:54:01.210 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:54:01.210 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:54:01.219 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:54:01.219 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:54:01.225 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:54:01.345 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-show-sidebar in search
+18:54:01.425 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-show-sidebar was found
+18:54:01.486 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-open-more in search
+18:54:01.494 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-open-more was found
+18:54:01.543 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-close-board in search
+18:54:01.593 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-close-board was found
+18:54:01.670 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-confirm in search
+18:54:01.682 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-confirm was found
+18:54:01.707 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-button'] in search
+18:54:02.139 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-button'] was found
+18:54:07.163 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-confirm-button'] in search
+18:54:07.164 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='close-board-delete-board-confirm-button'] was found
+18:54:07.202 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:54:08.015 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:54:08.015 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li in search
+18:54:16.022 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:54:16.022 INFO  tests_trello.TestBase - ****************************************************************
+18:54:16.022 INFO  tests_trello.TestBase - Start test--->cardCreation
+18:54:16.022 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+18:54:16.037 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:54:16.126 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+18:54:16.518 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+18:54:16.569 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:54:16.583 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:54:16.613 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:54:16.618 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:54:16.632 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+18:54:16.638 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:54:16.660 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+18:54:16.667 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+18:54:16.701 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+18:54:16.708 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+18:54:16.735 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:54:16.743 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:54:16.765 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:54:16.769 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:54:16.778 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+18:54:16.793 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+18:54:16.831 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+18:54:16.839 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+18:54:16.860 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+18:54:16.869 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+18:54:16.893 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+18:54:16.900 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] was found
+18:54:16.921 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card in search
+18:54:16.932 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-card was found
+18:54:16.964 INFO  tests_trello.TestBase - ****************************************************************
+18:54:16.965 INFO  tests_trello.TestBase - Start test--->loginTest1
+18:54:16.965 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:54:16.975 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:54:16.976 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:54:16.988 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:54:17.021 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-logout'] in search
+18:54:17.084 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-logout'] was found
+18:54:18.697 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-testid='logout-button'] in search
+18:54:18.705 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-testid='logout-button'] was found
+18:54:19.333 INFO  tests_trello.TestBase - Test login Positive 1ol-dyom@yandex.ru Frencis8534@
+18:54:19.333 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href='/login'] in search
+18:54:24.056 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href='/login'] was found
+18:54:24.088 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:54:24.718 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:54:24.739 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:54:24.745 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:54:24.757 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user in search
+18:54:24.760 INFO  manager.MyListener - The element with locator---> By.cssSelector: #user was found
+18:54:29.797 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login in search
+18:54:29.812 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login was found
+18:54:30.532 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:54:30.540 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:54:30.722 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:54:30.726 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:54:30.738 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password in search
+18:54:30.742 INFO  manager.MyListener - The element with locator---> By.cssSelector: #password was found
+18:54:30.772 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login-submit in search
+18:54:30.781 INFO  manager.MyListener - The element with locator---> By.cssSelector: #login-submit was found
+18:54:30.810 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._9Bfh6AVH84yAZe in search
+18:54:38.816 INFO  manager.MyListener - We have a throwable--> no such element: Unable to locate element: {"method":"css selector","selector":"._9Bfh6AVH84yAZe"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f9f71d0c6c249d7e9a29b9e6e4014e8
+*** Element info: {Using=css selector, value=._9Bfh6AVH84yAZe}
+18:54:38.816 INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"._9Bfh6AVH84yAZe"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f9f71d0c6c249d7e9a29b9e6e4014e8
+*** Element info: {Using=css selector, value=._9Bfh6AVH84yAZe}
+18:54:38.816 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen3278.png
+18:54:38.990 INFO  tests_trello.TestBase - ****************************************************************
+18:54:38.990 INFO  tests_trello.TestBase - Start test--->testChangeAvatar
+18:54:38.990 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' in search
+18:54:39.006 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-button' was found
+18:54:39.054 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-profile'] in search
+18:54:39.073 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-member-menu-profile'] was found
+18:54:39.116 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href$='manage-profile'] in search
+18:54:39.592 INFO  manager.MyListener - The element with locator---> By.cssSelector: [href$='manage-profile'] was found
+18:54:46.657 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-selector='profile-hover-info'] in search
+18:54:46.673 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-selector='profile-hover-info'] was found
+18:54:46.673 INFO  manager.MyListener - The element with locator---> By.cssSelector: .css-1ujqpe8 in search
+18:54:46.688 INFO  manager.MyListener - The element with locator---> By.cssSelector: .css-1ujqpe8 was found
+18:54:46.960 INFO  manager.MyListener - The element with locator---> By.xpath: //*[@role='menuitem'] [1] in search
+18:54:46.970 INFO  manager.MyListener - The element with locator---> By.xpath: //*[@role='menuitem'] [1] was found
+18:54:47.031 INFO  manager.MyListener - The element with locator---> By.cssSelector: [id='image-input'] in search
+18:54:47.038 INFO  manager.MyListener - The element with locator---> By.cssSelector: [id='image-input'] was found
+18:54:50.060 INFO  manager.MyListener - The element with locator---> By.xpath: //div[@class='sc-hgRTRy eovPat']//button[1] in search
+18:54:50.075 INFO  manager.MyListener - The element with locator---> By.xpath: //div[@class='sc-hgRTRy eovPat']//button[1] was found
+18:54:55.208 INFO  tests_trello.TestBase - ****************************************************************
+18:54:55.208 INFO  tests_trello.TestBase - Start test--->testNewTab
+18:55:05.958 INFO  tests_trello.TestBase - ****************************************************************
+18:55:05.958 INFO  manager.ApplicationManager - Tests are finished

@@ -1,0 +1,50 @@
+18:51:21.900 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+18:51:21.914 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+18:51:23.132 INFO  manager.ApplicationManager - Tests start
+18:51:43.454 INFO  tests_trello.TestBase - Start test--->boardCreationTest
+18:51:43.458 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item
+18:51:43.473 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+18:51:43.474 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li
+18:51:51.484 INFO  manager.MyListener - The element with locator---> By.xpath: //*[contains(@class,'icon-clock')]/../../..//li was found
+18:51:51.484 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button']
+18:51:51.491 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-button'] was found
+18:51:51.531 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon']
+18:51:51.590 INFO  manager.MyListener - The element with locator---> By.cssSelector: [aria-label='BoardIcon'] was found
+18:51:51.641 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+18:51:51.657 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:51:51.681 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+18:51:51.686 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:51:51.699 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input']
+18:51:51.704 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-title-input'] was found
+18:51:51.775 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover']
+18:51:51.783 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='header-create-menu-popover'] was found
+18:51:52.015 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button']
+18:51:52.021 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+18:51:52.557 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button']
+18:51:52.563 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-test-id='create-board-submit-button'] was found
+18:51:52.596 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input
+18:51:53.522 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:51:53.590 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input
+18:51:53.609 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+18:51:53.619 INFO  manager.MyListener - The element with locator---> By.cssSelector: ._9Bfh6AVH84yAZe
+18:52:01.639 INFO  manager.MyListener - We have a throwable--> no such element: Unable to locate element: {"method":"css selector","selector":"._9Bfh6AVH84yAZe"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60025}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 707e0013c6fa8ede011c760f8b278e56
+*** Element info: {Using=css selector, value=._9Bfh6AVH84yAZe}
+18:52:01.640 INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"._9Bfh6AVH84yAZe"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60025}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 707e0013c6fa8ede011c760f8b278e56
+*** Element info: {Using=css selector, value=._9Bfh6AVH84yAZe}
+18:52:01.641 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen3121.png
+18:52:02.698 INFO  tests_trello.TestBase - ****************************************************************
+18:52:02.699 INFO  manager.ApplicationManager - Tests are finished

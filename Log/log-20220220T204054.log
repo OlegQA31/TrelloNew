@@ -1,0 +1,50 @@
+20:40:54.769 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (resolved driver for Chrome 98)
+20:40:54.782 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win32\98.0.4758.102\chromedriver.exe
+20:40:55.991 INFO  manager.ApplicationManager - All tests start in 'Chrome' browser
+20:40:55.992 INFO  manager.ApplicationManager - Tests start
+20:41:16.604 INFO  tests_trello.TestBase - Start test--->cardCreation
+20:41:16.608 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item in search
+20:41:16.618 INFO  manager.MyListener - The element with locator---> By.cssSelector: .boards-page-board-section-list-item was found
+20:41:16.709 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list in search
+20:41:17.124 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-list was found
+20:41:17.197 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:41:17.207 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:41:17.231 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:41:17.238 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:41:17.254 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input in search
+20:41:17.260 INFO  manager.MyListener - The element with locator---> By.cssSelector: .list-name-input was found
+20:41:17.286 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit in search
+20:41:17.293 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-save-edit was found
+20:41:17.329 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card in search
+20:41:17.338 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-add-a-card was found
+20:41:17.358 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:41:17.417 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:41:17.436 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:41:17.441 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:41:17.453 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title in search
+20:41:17.459 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-card-title was found
+20:41:17.481 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu in search
+20:41:17.490 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-cc-menu was found
+20:41:17.512 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector in search
+20:41:17.521 INFO  manager.MyListener - The element with locator---> By.cssSelector: .js-label-selector was found
+20:41:17.546 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] in search
+20:41:17.561 INFO  manager.MyListener - The element with locator---> By.cssSelector: [data-color='green'] was found
+20:41:17.571 INFO  manager.MyListener - We have a throwable--> stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54604}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc3e5a06d74b5e8fc799efecda1080af
+20:41:17.572 INFO  manager.MyListener - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PKMONSTER', ip: '26.121.132.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54604}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc3e5a06d74b5e8fc799efecda1080af
+20:41:17.574 INFO  manager.MyListener - This is a link of 'your screen' with errorsrc/test/screenshots/screen2477.png
+20:41:18.156 INFO  tests_trello.TestBase - ****************************************************************
+20:41:18.158 INFO  manager.ApplicationManager - Tests are finished
